@@ -1,0 +1,61 @@
+/*
+
+	Supersized - Fullscreen Slideshow jQuery Plugin
+	Version : 3.2.7
+	Site	: www.buildinternet.com/project/supersized
+	
+	Theme 	: Shutter 1.2
+	Author	: Sam Dunn
+	Company : One Mighty Roar (www.onemightyroar.com)
+	License : MIT License / GPL License
+	
+*/
+
+	/* Controls Bar
+	----------------------------*/
+	#controls-wrapper { margin:0 auto; height:58px; width:100%; bottom:0px; left:0; z-index:4; position:fixed; }
+		#controls { overflow:hidden; height:100%; position:relative; text-align:left; z-index:5; left: 78px; }
+			#slidecounter { float:left; color:#999; font:14px "Helvetica Neue", Helvetica, Arial, sans-serif; text-shadow:#000 0 -1px 0; margin:0px 10px 0 15px; line-height:42px; }
+			#slidecaption { overflow:hidden; float:left; color:#FFF; font:400 14px "Helvetica Neue", Helvetica, Arial, sans-serif; text-shadow:#000 1px 1px 2px; margin:0 20px 0 0; line-height:42px; }
+			
+			#navigation { float:right; margin:0px 20px 0 0; }
+				
+				a#prevslide { z-index:999; cursor: pointer; display: block; position: fixed; right: 55px; bottom: 0px; opacity: 1 !important; padding: 10px 15px 10px 15px; color: #fff; }
+			a#nextslide { z-index:999; cursor: pointer;  display: block; position: fixed; right: 15px; bottom: 0px; opacity: 1 !important; padding: 10px 15px 10px 15px; color: #fff; }
+			
+			a#prevslide:before  { font-family: "FontAwesome"; font-size: 40px; display: block; content: '\f104'; color: #fff; font-weight: 300; }
+			a#nextslide:before  { font-family: "FontAwesome"; font-size: 40px; display: block; content: '\f105'; color: #fff; font-weight: 300; }
+			
+			body.hover a#prevslide { 
+				animation-name: slideRight;
+				-webkit-animation-name: slideRight;	
+			
+				animation-duration: 0.5s;	
+				-webkit-animation-duration: 0.5s;
+			
+				animation-timing-function: ease-in-out;	
+				-webkit-animation-timing-function: ease-in-out;		
+			
+				visibility: visible !important;	
+			}
+			body.hover a#nextslide { 
+				animation-name: slideLeft;
+				-webkit-animation-name: slideLeft;	
+			
+				animation-duration: 0.5s;	
+				-webkit-animation-duration: 0.5s;
+			
+				animation-timing-function: ease-in-out;	
+				-webkit-animation-timing-function: ease-in-out;		
+			
+				visibility: visible !important;
+			}
+				
+				ul#slide-list{ padding:15px 0; float:left; position:absolute; left:50%; }
+					ul#slide-list li{ list-style:none; width:12px; height:12px; float:left; margin:0 5px 0 0; }
+						ul#slide-list li.current-slide a, ul#slide-list li.current-slide a:hover{ background-position:0 0px; }
+						ul#slide-list li a{ display:block; width:12px; height:12px; background:url('../img/nav-dot.png') no-repeat 0 -24px; }
+							ul#slide-list li a:hover{ background-position:0 -12px; cursor:pointer; }
+				
+				#tray-button{ float:right; margin-top:1px; border-left:1px solid #333; background:url('../img/bg-hover.png') repeat-x 0 44px; }
+					#tray-button:hover{ background-position:0 1px; cursor:pointer; }

@@ -1,0 +1,10 @@
+[24-Sep-2020 15:27:49 UTC] PHP Warning:  Use of undefined constant THEMEDOMAIN - assumed 'THEMEDOMAIN' (this will throw an Error in a future version of PHP) in /Users/lauraperson/Local Sites/laurapersonne/app/public/wp-content/themes/stellar-child/header.php on line 123
+[24-Sep-2020 15:27:49 UTC] PHP Stack trace:
+[24-Sep-2020 15:27:49 UTC] PHP   1. {main}() /Users/lauraperson/Local Sites/laurapersonne/app/public/index.php:0
+[24-Sep-2020 15:27:49 UTC] PHP   2. require() /Users/lauraperson/Local Sites/laurapersonne/app/public/index.php:17
+[24-Sep-2020 15:27:49 UTC] PHP   3. require_once() /Users/lauraperson/Local Sites/laurapersonne/app/public/wp-blog-header.php:19
+[24-Sep-2020 15:27:49 UTC] PHP   4. include() /Users/lauraperson/Local Sites/laurapersonne/app/public/wp-includes/template-loader.php:106
+[24-Sep-2020 15:27:49 UTC] PHP   5. get_header() /Users/lauraperson/Local Sites/laurapersonne/app/public/wp-content/themes/stellar-child/page.php:22
+[24-Sep-2020 15:27:49 UTC] PHP   6. locate_template() /Users/lauraperson/Local Sites/laurapersonne/app/public/wp-includes/general-template.php:48
+[24-Sep-2020 15:27:49 UTC] PHP   7. load_template() /Users/lauraperson/Local Sites/laurapersonne/app/public/wp-includes/template.php:676
+[24-Sep-2020 15:27:49 UTC] PHP   8. require_once() /Users/lauraperson/Local Sites/laurapersonne/app/public/wp-includes/template.php:730

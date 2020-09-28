@@ -1,0 +1,214 @@
+/************************************************
+	Conditionals
+************************************************/
+
+/* Gloal Color Brightness */
+
+body.dark {
+	color: #cccccc;
+	color: rgba(255, 255, 255, 0.7);
+	border-color: rgba(255, 255, 255, 0.24);
+}
+.dark h1, .dark h2, .dark h3,
+.dark h4, .dark h5, .dark h6 {
+	color: #ffffff;
+	border-color: rgba(255, 255, 255, 0.24);
+}
+.dark h1 a, .dark h2 a, .dark h3 a, .dark h4 a, .dark h5 a, .dark h6 a,
+.dark h1 a:link, .dark h2 a:link, .dark h3 a:link, .dark h4 a:link, .dark h5 a:link, .dark h6 a:link,
+.dark h1 a:visited, .dark h2 a:visited, .dark h3 a:visited, .dark h4 a:visited, .dark h5 a:visited, .dark h6 a:visited {
+	color: #ffffff;
+}
+.dark h1 a:hover, .dark h2 a:hover, .dark h3 a:hover, .dark h4 a:hover, .dark h5 a:hover, .dark h6 a:hover,
+.dark h1 a:focus, .dark h2 a:focus, .dark h3 a:focus, .dark h4 a:focus, .dark h5 a:focus, .dark h6 a:focus,
+.dark h1 a:active, .dark h2 a:active, .dark h3 a:active, .dark h4 a:active, .dark h5 a:active, .dark h6 a:active {
+	color: #3399cc;
+}
+.dark blockquote,
+.dark .headline {
+	color: #ffffff;
+	border-color: #ffffff;
+}
+.dark .excerpt p:first-child,
+.dark .article h1:first-child + p,
+.dark .article h2:first-child + p,
+.dark .article h2:first-child + .feature-img + p,
+.dark .article > p:first-child {
+	color: #ffffff;
+}
+
+/* Header Color Brightness */
+
+.dark .site-title a,
+.dark .site-title a:link,
+.dark .site-title a:visited {
+	color: #ffffff;
+}
+.dark .site-description {
+	color: rgba(255, 255, 255, 0.7);
+}
+.dark .top-navigation,
+.dark #masthead.full-width,
+.dark.portfolio-not-single.portfolio-no-img.portfolio-has-desc #masthead,
+.dark.portfolio-not-single.portfolio-no-img.portfolio-has-title #masthead,
+.dark .site-title-slideshow .title  {
+	border-color: rgba(255, 255, 255, 0.24);
+}
+.dark .social-icons li a {
+	color: rgba(255, 255, 255, 0.3);
+	border-color: rgba(255, 255, 255, 0.24);
+}
+.dark .social-icons li a:hover {
+	color: #ffffff;
+}
+
+/* Content Color Brightness */
+
+.dark .content .five.columns {
+	border-color: rgba(255, 255, 255, 0.24);
+}
+.dark .flexslider .title,
+.dark .flexslider .title a,
+.dark .flexslider .title a:link,
+.dark .flexslider .title a:visited {
+	color: rgba(255, 255, 255, 0.6);
+}
+.dark .flexslider .title a:hover,
+.dark .flexslider .title a:active,
+.dark .flexslider .title a:focus {
+	color: #ffffff;
+}
+.dark .wp-caption-dd,
+.dark .wp-caption p.wp-caption-text,
+.dark .post-navigation a,
+.dark .post-navigation a:link,
+.dark .post-navigation a:visited,
+.dark .flex-direction-nav .flex-next i,
+.dark .flex-direction-nav .flex-prev i,
+.dark .flex-slide-count {
+	color: rgba(255, 255, 255, 0.4);
+}
+.dark .post-navigation a:hover,
+.dark .post-navigation a:active,
+.dark .post-navigation a:focus,
+.dark .flex-direction-nav .flex-next:hover i,
+.dark .flex-direction-nav .flex-prev:hover i {
+	color: #ffffff;
+}
+.dark .next-post,
+.dark .flex-direction-nav .flex-next,
+.dark #comments {
+	border-color: rgba(255, 255, 255, 0.24);
+}
+.dark .flexslider .preloader {
+	border-bottom-color: rgba(255, 255, 255, 0.12);
+	border-left-color: rgba(255, 255, 255, 0.12);
+	border-right-color: rgba(255, 255, 255, 0.4);
+	border-top-color: rgba(255, 255, 255, 0.4);
+}
+.dark article.comment,
+.dark .showcase-category .archive-holder .title.no-img {
+	background-color: rgba(255, 255, 255, 0.04);
+}
+.dark .post-meta {
+	color: #999999;
+	color: rgba(255, 255, 255, 0.4);
+}
+.dark .post-meta::before,
+.dark .blog-holder .article,
+.dark .archive-holder .article {
+	border-color: rgba(255, 255, 255, 0.24);
+}
+.dark .post-taxonomy a {
+	color: rgba(255, 255, 255, 0.4) !important;
+	border-color: rgba(255, 255, 255, 0.24);
+}
+.dark .post-taxonomy a:hover {
+	color: #ffffff !important;
+}
+
+/* Button Color Brightness */
+
+.dark button, .dark .button, .dark a.button, .dark .reply a, .dark #searchsubmit,
+.dark #prevLink a, .dark #nextLink a, .dark a.more-link, .dark #submit,
+.dark input[type=submit], .dark input#submit, .dark input.button, .dark #wrapper #infinite-handle span {
+	color: rgba(255, 255, 255, 0.5) !important;
+}
+.dark button:hover, .dark .button:hover, .dark a.button:hover, .dark .reply a:hover,
+.dark #searchsubmit:hover, .dark #prevLink a:hover, .dark #nextLink a:hover, .dark a.more-link:hover,
+.dark input[type=submit]:hover, .dark #submit:hover, .dark input#submit:hover, .dark input.button:hover,
+.dark #wrapper #infinite-handle span:hover {
+	color: #ffffff !important;
+	border-color: #ffffff !important;
+}
+
+/* Footer Color Brightness */
+
+.dark .footer {
+	border-color: rgba(255, 255, 255, 0.24);
+}
+.dark .footer-information p {
+	color: rgba(255, 255, 255, 0.4);
+}
+.dark .footer-information a {
+	color: rgba(255, 255, 255, 0.7);
+}
+
+/* Menu Color Brightness */
+
+.dark ul.menu a,
+.dark ul.menu a:link,
+.dark ul.menu a:visited {
+	color: #cccccc;
+	color: rgba(255, 255, 255, 0.6);
+	border-color: rgba(255, 255, 255, 0);
+}
+.dark ul.menu a:focus,
+.dark ul.menu a:hover,
+.dark ul.menu a:active {
+	color: #ffffff;
+	border-color: #ffffff;
+}
+.dark ul.menu li li a,
+.dark ul.menu li li a:link,
+.dark ul.menu li li a:visited,
+.dark .footer-menu ul.menu li {
+	border-color: rgba(255, 255, 255, 0.24);
+}
+.dark button.menu-toggle svg {
+	fill: rgba(255, 255, 255, 0.6);
+}
+.dark button.menu-toggle:hover svg {
+	fill: rgba(255, 255, 255, 1);
+}
+
+/* Header Conditionals */
+
+.portfolio-has-logo #header.top-header {
+	display: flex;
+	align-content: center;
+	justify-content: space-between;
+}
+.portfolio-not-single #header.top-header,
+.portfolio-has-logo.portfolio-not-single #header.top-header {
+	display: none;
+}
+.portfolio-no-logo #header.side-header {
+	padding-top: 48px;
+}
+.portfolio-header-inactive #masthead.full-width,
+.error404.portfolio-header-inactive.portfolio-has-desc #masthead,
+.error404.portfolio-header-inactive.portfolio-has-title #masthead,
+.blog.portfolio-header-inactive.portfolio-has-desc #masthead,
+.blog.portfolio-header-inactive.portfolio-has-title #masthead,
+.archive.portfolio-header-inactive.portfolio-has-desc #masthead,
+.archive.portfolio-header-inactive.portfolio-has-title #masthead,
+.search.portfolio-header-inactive.portfolio-has-desc #masthead,
+.search.portfolio-header-inactive.portfolio-has-title #masthead,
+.portfolio-not-single.portfolio-no-img.portfolio-has-desc #masthead,
+.portfolio-not-single.portfolio-no-img.portfolio-has-title #masthead {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+.portfolio-slideshow #masthead {
+	border: none !important;
+}

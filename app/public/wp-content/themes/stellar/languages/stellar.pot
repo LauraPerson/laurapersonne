@@ -1,0 +1,548 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Minos Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-05 10:51+0700\n"
+"PO-Revision-Date: 2014-09-15 17:22+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:34
+msgid "Apologies, but the content you requested could not be found."
+msgstr ""
+
+#: ../blog.php:141 ../blog_f.php:112 ../blog_g.php:109 ../blog_thumb.php:112
+msgid "Posts tagged "
+msgstr ""
+
+#: ../blog.php:147 ../blog_f.php:118 ../blog_g.php:115 ../blog_thumb.php:118
+msgid "Search Results for "
+msgstr ""
+
+#: ../blog.php:152 ../blog_f.php:123 ../blog_g.php:120 ../blog_thumb.php:123
+msgid "Posts category "
+msgstr ""
+
+#: ../blog.php:163 ../blog_f.php:134 ../blog_g.php:131 ../blog_thumb.php:134
+msgid "Blog Archives"
+msgstr ""
+
+#: ../blog.php:166 ../blog_f.php:137 ../blog_g.php:134 ../blog_thumb.php:137
+msgid "Posts archives "
+msgstr ""
+
+#: ../blog.php:280 ../blog_f.php:251 ../blog_thumb.php:267 ../index.php:57
+#: ../single-post-f.php:53 ../single-post-r.php:53
+msgid "In"
+msgstr ""
+
+#: ../blog.php:291 ../blog_f.php:262 ../blog_g.php:242 ../blog_thumb.php:278
+#: ../index.php:68 ../single-post-f.php:64 ../single-post-r.php:64
+msgid "on"
+msgstr ""
+
+#: ../blog.php:300 ../blog_f.php:271 ../blog_g.php:251 ../blog_thumb.php:287
+#: ../index.php:77 ../single-post-f.php:73 ../single-post-r.php:73
+msgid "by"
+msgstr ""
+
+#: ../blog.php:304 ../blog_f.php:275 ../blog_g.php:255 ../blog_thumb.php:291
+#: ../index.php:81 ../single-post-f.php:77 ../single-post-r.php:77
+msgid "has"
+msgstr ""
+
+#: ../blog.php:304 ../blog_f.php:275 ../blog_g.php:255 ../blog_thumb.php:291
+#: ../index.php:81 ../single-post-f.php:77 ../single-post-r.php:77
+msgid "No Comment"
+msgstr ""
+
+#: ../blog.php:304 ../blog_f.php:275 ../blog_g.php:255 ../blog_thumb.php:291
+#: ../index.php:81 ../single-post-f.php:77 ../single-post-r.php:77
+msgid "1 Comment"
+msgstr ""
+
+#: ../blog.php:304 ../blog_f.php:275 ../blog_g.php:255 ../blog_thumb.php:291
+#: ../index.php:81 ../single-post-f.php:77 ../single-post-r.php:77
+msgid "% Comments"
+msgstr ""
+
+#: ../blog.php:384 ../blog_f.php:355 ../index.php:152
+msgid "Continue Reading"
+msgstr ""
+
+#: ../blog.php:407 ../blog_f.php:378 ../blog_thumb.php:310
+msgid "New Search"
+msgstr ""
+
+#: ../blog.php:408 ../blog_f.php:379 ../blog_thumb.php:311
+msgid "Oops, The Content Could Not Be Found. Please try a new search."
+msgstr ""
+
+#: ../blog.php:411 ../blog_f.php:382 ../blog_thumb.php:314
+msgid "Type and hit enter"
+msgstr ""
+
+#: ../blog.php:412 ../blog_f.php:383 ../blog_thumb.php:315
+msgid "Search"
+msgstr ""
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../contact.php:131 ../functions.php:1345
+msgid "Name"
+msgstr ""
+
+#: ../contact.php:139 ../functions.php:1346
+msgid "Email"
+msgstr ""
+
+#: ../contact.php:147 ../templates/comments-form.php:33
+msgid "Message"
+msgstr ""
+
+#: ../contact.php:155
+msgid "Address"
+msgstr ""
+
+#: ../contact.php:163
+msgid "Phone"
+msgstr ""
+
+#: ../contact.php:171
+msgid "Mobile"
+msgstr ""
+
+#: ../contact.php:179
+msgid "Company Name"
+msgstr ""
+
+#: ../contact.php:187
+msgid "Country"
+msgstr ""
+
+#: ../contact.php:207
+msgid "Type the two words"
+msgstr ""
+
+#: ../contact.php:220
+msgid "Send Message"
+msgstr ""
+
+#: ../fields/gallery/tg-gallery.php:58
+msgid "Gallery Images"
+msgstr ""
+
+#: ../fields/gallery/tg-gallery.php:100
+msgid "Allowed Files"
+msgstr ""
+
+#: ../fields/gallery/tg-gallery.php:123
+msgid "Upload Image"
+msgstr ""
+
+#: ../fields/gallery/tg-gallery.php:124
+msgid "Delete All Images"
+msgstr ""
+
+#: ../fields/gallery/tg-gallery.php:131
+msgid "Remove"
+msgstr ""
+
+#: ../fields/post.fields.php:8
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../fields/post.fields.php:9
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../fields/post.fields.php:10
+msgid "New Gallery"
+msgstr ""
+
+#: ../fields/post.fields.php:11
+msgid "View Gallery"
+msgstr ""
+
+#: ../fields/post.fields.php:12
+msgid "Search Gallery"
+msgstr ""
+
+#: ../fields/post.fields.php:13
+msgid "No Gallery found"
+msgstr ""
+
+#: ../fields/post.fields.php:14
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../fields/post.fields.php:36
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:37
+msgid "All Gallery Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:38
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: ../fields/post.fields.php:39
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: ../fields/post.fields.php:40
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../fields/post.fields.php:41
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../fields/post.fields.php:42
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../fields/post.fields.php:43
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../fields/post.fields.php:67
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../fields/post.fields.php:68
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../fields/post.fields.php:69
+msgid "New Portfolio"
+msgstr ""
+
+#: ../fields/post.fields.php:70
+msgid "View Portfolio"
+msgstr ""
+
+#: ../fields/post.fields.php:71
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../fields/post.fields.php:72
+msgid "No Portfolio found"
+msgstr ""
+
+#: ../fields/post.fields.php:73
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: ../fields/post.fields.php:95
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:96
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:97
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../fields/post.fields.php:98
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../fields/post.fields.php:99
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../fields/post.fields.php:100
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../fields/post.fields.php:101
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../fields/post.fields.php:102
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../fields/post.fields.php:124
+msgid "Thumbnail"
+msgstr ""
+
+#: ../functions.php:201 ../lib/menu.lib.php:7
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:305
+msgid "Thank you! We will get back to you as soon as possible"
+msgstr ""
+
+#: ../functions.php:319
+msgid "Email from contact form"
+msgstr ""
+
+#: ../functions.php:684
+msgid "Updating..."
+msgstr ""
+
+#: ../functions.php:685
+msgid "Successfully<br/>Update"
+msgstr ""
+
+#: ../functions.php:707
+msgid "Theme Setting"
+msgstr ""
+
+#: ../functions.php:712
+msgid "Save All Changes"
+msgstr ""
+
+#: ../functions.php:732
+msgid "The path "
+msgstr ""
+
+#: ../functions.php:732
+msgid ""
+" is not writable, please login with your FTP account and make it writable "
+"(chmod 777) otherwise CSS and javascript compression feature won't work."
+msgstr ""
+
+#: ../functions.php:922
+msgid "Below are fonts that already installed."
+msgstr ""
+
+#: ../functions.php:1022 ../functions.php:1031
+msgid "Delete"
+msgstr ""
+
+#: ../functions.php:1031
+msgid "Listen current music"
+msgstr ""
+
+#: ../functions.php:1197
+msgid "Add"
+msgstr ""
+
+#: ../functions.php:1292
+msgid "Save changes"
+msgstr ""
+
+#: ../functions.php:1347 ../templates/comments-form.php:27
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:1363 ../functions.php:1441
+msgid "Category Featured Image"
+msgstr ""
+
+#: ../functions.php:1369 ../functions.php:1447
+msgid ""
+"Category Featured Image which displays as header background image on this "
+"category page"
+msgstr ""
+
+#: ../gallery_kenburns.php:60
+msgid "Your browser doesn't support canvas!"
+msgstr ""
+
+#: ../get_captcha.php:16
+msgid "Please enter correct captcha text"
+msgstr ""
+
+#: ../header.php:123
+msgid "Menu"
+msgstr ""
+
+#: ../index.php:14
+msgid "The Blog"
+msgstr ""
+
+#: ../lib/custom.lib.php:245
+msgid "Page"
+msgstr ""
+
+#: ../lib/custom.lib.php:270
+msgid "(Your comment is awaiting moderation.)"
+msgstr ""
+
+#: ../lib/custom.lib.php:298
+msgid "Reply"
+msgstr ""
+
+#: ../lib/custom.lib.php:298
+msgid "Login to Reply"
+msgstr ""
+
+#: ../lib/custom.lib.php:356
+msgid "Recent Posts"
+msgstr ""
+
+#: ../lib/custom.lib.php:364
+msgid "Popular Posts"
+msgstr ""
+
+#: ../lib/shortcode.lib.php:596
+msgid "Comment & share"
+msgstr ""
+
+#: ../modules/shortcode_generator.php:305
+msgid "Select Shortcode"
+msgstr ""
+
+#: ../modules/shortcode_generator.php:306
+msgid ""
+"Please select short code from list below then enter short code attributes "
+"and click \"Generate Shortcode\"."
+msgstr ""
+
+#: ../modules/shortcode_generator.php:309
+msgid "(no short code selected)"
+msgstr ""
+
+#: ../modules/shortcode_generator.php:445
+msgid "Shortcode"
+msgstr ""
+
+#: ../modules/shortcode_generator.php:449
+msgid "Generate Shortcode"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1175
+msgid "right now"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1177
+msgid "seconds ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1179
+msgid "about 1 minute ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1181
+msgid "minutes ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1183
+msgid "about 1 hour ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1185
+msgid "hours ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1187
+msgid "yesterday"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1189
+msgid "days ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1191
+msgid "over a year ago"
+msgstr ""
+
+#: ../modules/woocommerce.php:7
+msgid "Shop"
+msgstr ""
+
+#: ../portfolio_grid.php:169 ../portfolio_masonry.php:169
+#: ../portfolio_vertical.php:169
+msgid "All"
+msgstr ""
+
+#: ../single-portfolio.php:68
+msgid "Back"
+msgstr ""
+
+#: ../single-portfolio.php:84
+msgid "Next"
+msgstr ""
+
+#: ../single-post-f.php:214 ../single-post-r.php:213
+msgid "Previous Post"
+msgstr ""
+
+#: ../single-post-f.php:229 ../single-post-r.php:227
+msgid "Next Post"
+msgstr ""
+
+#: ../templates/comments-form.php:13
+msgid "Leave A Reply"
+msgstr ""
+
+#: ../templates/comments-form.php:21
+msgid "Name (required)"
+msgstr ""
+
+#: ../templates/comments-form.php:24
+msgid "Email (required)"
+msgstr ""
+
+#: ../templates/comments-form.php:37
+msgid "Submit"
+msgstr ""
+
+#: ../templates/script-contact-form.php:36
+msgid "Please enter"
+msgstr ""
+
+#: ../templates/script-contact-form.php:42
+msgid "Please enter valid"
+msgstr ""
+
+#: ../templates/template-cover.php:49
+msgid "enter"
+msgstr ""
+
+#: ../templates/template-password.php:35
+msgid "Error Password is incorrect"
+msgstr ""
+
+#: ../templates/template-password.php:79
+msgid ""
+"This gallery is password protected. Please enter password.<br/>To view it "
+"please enter your password below"
+msgstr ""
+
+#: ../templates/template-password.php:90
+msgid "Password"
+msgstr ""
+
+#: ../templates/template-share.php:36
+msgid "Share On Facebook"
+msgstr ""
+
+#: ../templates/template-share.php:37
+msgid "Share On Twitter"
+msgstr ""
+
+#: ../templates/template-share.php:38
+msgid "Share On Pinterest"
+msgstr ""
+
+#: ../templates/template-share.php:39
+msgid "Share On Google+"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel Reply"
+#~ msgstr "Leave a Reply"
